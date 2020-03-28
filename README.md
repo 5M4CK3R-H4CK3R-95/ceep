@@ -1,12 +1,6 @@
 # ceep
-        
-pppppppppp   ppppppppp  ppppppppp   ppppppppp   
-pp           pp         pp          pp     pp
-pp           pppppp     pppppp      ppppppppp
-pp           pp         pp          pp 
-pppppppppp   ppppppppp  ppppppppp   pp
 
-####This Tool is created by 5M4CK3R
+###This Tool is created by 5M4CK3R
 
 This Tool is based upon a bug called pastjacker it simply clone a website and if viewer copy a specific text the copyed data is changed and it will exicute the virus created by msfvenom if you wont to know more open :    url and watch video ...
 
