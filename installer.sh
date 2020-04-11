@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 clear
 echo "Please Wait While Seting up ceep for you ..."
 sleep 2
