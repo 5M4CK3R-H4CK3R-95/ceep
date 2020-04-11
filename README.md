@@ -15,7 +15,12 @@ apt install git
 git clone https://github.com/5M4CK3R-H4CK3R-95/ceep.git
 cd ceep
 chmod +x *
-./installer.sh
+./installer.py 
+```
+or 
+```
+python3 installer.py
+
 ```
 After that it will install the ceep in your system to run ceep in your system simply type
 
