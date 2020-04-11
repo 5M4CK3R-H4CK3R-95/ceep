@@ -14,7 +14,8 @@ apt install wget
 apt install git
 git clone https://github.com/5M4CK3R-H4CK3R-95/ceep.git
 cd ceep
-python3 install.py
+chmod +x *
+./installer.sh
 ```
 After that it will install the ceep in your system to run ceep in your system simply type
 
@@ -28,5 +29,6 @@ And After that your ceep is installed sucessfully
 this program is based upon a past jacker bug it simply exicute a command in the victims system to know more you can join 
 our whatsapp group : https://chat.whatsapp.com/Fz8zqyz7QWrAIrFbLG0CPD 
 or you can subscribe my youtube channel : https://www.youtube.com/channel/UC6d9mTruuZ7XeuVL0J2G7aQ/featured?view_as=subscriber
+You can also install metasploit with using this program ..
 
 ...
