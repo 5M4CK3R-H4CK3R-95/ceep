@@ -27,7 +27,7 @@ After that it will install the ceep in your system to run ceep in your system si
 ```
 python3 ceep.py
 ```
-And After that your ceep is installed sucessfully
+And After that your ceep is started
 
 #About
 
