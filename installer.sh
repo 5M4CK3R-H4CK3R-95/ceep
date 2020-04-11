@@ -1,6 +1,7 @@
-#!/bin/bash
+#!/bin/sh
 clear
 echo "Please Wait While Seting up ceep for you ..."
+sleep 2
 apt install wget
 clear
 mkdir data
@@ -10,7 +11,6 @@ touch data/data.txt
 touch data/os.txt
 touch data/rc_name.txt
 touch data/url.txt
-sleep 2
 unzip ngrok.zip
 mv ngrok data
 rm -rf ngrok.zip
