@@ -1,22 +1,25 @@
-#!/usr/bin/env bash
-clear
-echo "Please Wait While Seting up ceep for you ..."
-sleep 2
-apt install wget
-clear
-mkdir data
-mkdir web
-touch data/cp.txt
-touch data/data.txt
-touch data/os.txt
-touch data/rc_name.txt
-touch data/url.txt
-unzip ngrok.zip
-mv ngrok data
-rm -rf ngrok.zip
-chmod +x data/ngrok
-chmod +x *
-rm -rf installer.sh
-echo ""
-echo "Done Ceep Is Sucessfully instaleld in your device now just simply type pytho3 ceep.py"
-echo ""
+#!/usr/bin/python3
+from time import sleep
+from os import system
+system('clear')
+print('Please Wait While Setting up ceep for you ..')
+sleep(2)
+system('apt update')
+system('clear')
+system('mkdir data')
+system('mkdir web')
+system('touch data/cp.txt')
+system('touch data/data.txt')
+system('touch data/os.txt')
+system('touch data/rc_name.txt')
+system('touch data/url.txt')
+system('unzip ngrok.zip')
+system('clear')
+system('mv ngrok data')
+system('rm -rf ngrok.zip')
+system('chmod +x *')
+system('rm -rf installer.py')
+system('clear')
+print('')
+print('Done You Are Ready Now Just Type python3 ceep.py to start ceep .')
+print('')
