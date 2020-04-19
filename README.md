@@ -9,7 +9,7 @@ This Tool is based upon a bug called pastjacker it simply clone a website and if
 ```
 apt update
 apt upgrade
-apt install python3 && apt install python
+apt install python2 && apt install python
 apt install wget
 apt install git
 git clone https://github.com/5M4CK3R-H4CK3R-95/ceep.git
